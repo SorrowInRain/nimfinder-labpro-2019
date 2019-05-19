@@ -20,7 +20,7 @@ Aplikasi Anda harus mampu diakses lewat *Github Pages*. Pada dasarnya, Anda perl
 * Aplikasi dibuat dengan menggunakan __React__.
 * Aplikasi __harus memanfaatkan API__ yang disediakan.
 * Untuk mengerjakan tugas ini, Anda diharuskan untuk melakukan *fork* terhadap repository ini. Anda kemudian mengerjakan tugas ini di repository yang baru saja Anda *fork* tersebut. 
-* Batas akhir pengerjaan adalah __20 Juni 2019, pukul 23.59__. Pengumpulan dilakukan dengan membuat __*merge request*__ ke repository ini kembali, dengan “TugasSeleksi2_<NIM Anda>” sebagai judul dari merge request. (contoh : TugasSeleksi2_13516000) 
+* Batas akhir pengerjaan adalah __20 Juni 2019, pukul 23.59__. Pengumpulan dilakukan dengan membuat __*merge request*__ ke repository ini kembali, dengan “TugasSeleksi2_\<NIM Anda\>” sebagai judul dari merge request. (contoh : TugasSeleksi2_13516000) 
 * Deliverables yang harus ada dalam repository Anda adalah :
   * *Source Code*
   * File *Readme* (hapus spesifikasi ini), minimal berisi hal-hal berikut ini :
